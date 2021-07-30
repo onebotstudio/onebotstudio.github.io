@@ -1,1 +1,1 @@
-# Welcome to OneBot Studio
+## we build music AI
