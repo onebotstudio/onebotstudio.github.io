@@ -1,1 +1,1 @@
-## we build music AI
+## We build music AI
